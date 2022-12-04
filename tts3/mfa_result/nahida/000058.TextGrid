@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.0706666666666667 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.0706666666666667 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.06 
+            text = "deng3" 
+        intervals [2]:
+            xmin = 0.06 
+            xmax = 0.25 
+            text = "xia4" 
+        intervals [3]:
+            xmin = 0.25 
+            xmax = 0.34 
+            text = "you3" 
+        intervals [4]:
+            xmin = 0.34 
+            xmax = 0.5 
+            text = "dian3" 
+        intervals [5]:
+            xmin = 0.5 
+            xmax = 0.83 
+            text = "tong4" 
+        intervals [6]:
+            xmin = 0.83 
+            xmax = 1.01 
+            text = "o2" 
+        intervals [7]:
+            xmin = 1.01 
+            xmax = 1.0706666666666667 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.0706666666666667 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.03 
+            text = "d" 
+        intervals [2]:
+            xmin = 0.03 
+            xmax = 0.06 
+            text = "eng3" 
+        intervals [3]:
+            xmin = 0.06 
+            xmax = 0.19 
+            text = "x" 
+        intervals [4]:
+            xmin = 0.19 
+            xmax = 0.25 
+            text = "ia4" 
+        intervals [5]:
+            xmin = 0.25 
+            xmax = 0.34 
+            text = "iou3" 
+        intervals [6]:
+            xmin = 0.34 
+            xmax = 0.45 
+            text = "d" 
+        intervals [7]:
+            xmin = 0.45 
+            xmax = 0.5 
+            text = "ian3" 
+        intervals [8]:
+            xmin = 0.5 
+            xmax = 0.67 
+            text = "t" 
+        intervals [9]:
+            xmin = 0.67 
+            xmax = 0.83 
+            text = "ong4" 
+        intervals [10]:
+            xmin = 0.83 
+            xmax = 1.01 
+            text = "o2" 
+        intervals [11]:
+            xmin = 1.01 
+            xmax = 1.0706666666666667 
+            text = "" 

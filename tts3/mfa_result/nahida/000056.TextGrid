@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.044 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.044 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16 
+            text = "zhi1" 
+        intervals [2]:
+            xmin = 0.16 
+            xmax = 0.5 
+            text = "shi2" 
+        intervals [3]:
+            xmin = 0.5 
+            xmax = 0.61 
+            text = "yu3" 
+        intervals [4]:
+            xmin = 0.61 
+            xmax = 1 
+            text = "" 
+        intervals [5]:
+            xmin = 1 
+            xmax = 1.26 
+            text = "ni3" 
+        intervals [6]:
+            xmin = 1.26 
+            xmax = 1.47 
+            text = "fen1" 
+        intervals [7]:
+            xmin = 1.47 
+            xmax = 1.96 
+            text = "xiang3" 
+        intervals [8]:
+            xmin = 1.96 
+            xmax = 2.044 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.044 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05 
+            text = "zh" 
+        intervals [2]:
+            xmin = 0.05 
+            xmax = 0.16 
+            text = "iii1" 
+        intervals [3]:
+            xmin = 0.16 
+            xmax = 0.34 
+            text = "sh" 
+        intervals [4]:
+            xmin = 0.34 
+            xmax = 0.5 
+            text = "iii2" 
+        intervals [5]:
+            xmin = 0.5 
+            xmax = 0.61 
+            text = "v3" 
+        intervals [6]:
+            xmin = 0.61 
+            xmax = 1 
+            text = "" 
+        intervals [7]:
+            xmin = 1 
+            xmax = 1.04 
+            text = "n" 
+        intervals [8]:
+            xmin = 1.04 
+            xmax = 1.26 
+            text = "i3" 
+        intervals [9]:
+            xmin = 1.26 
+            xmax = 1.38 
+            text = "f" 
+        intervals [10]:
+            xmin = 1.38 
+            xmax = 1.47 
+            text = "en1" 
+        intervals [11]:
+            xmin = 1.47 
+            xmax = 1.69 
+            text = "x" 
+        intervals [12]:
+            xmin = 1.69 
+            xmax = 1.96 
+            text = "iang3" 
+        intervals [13]:
+            xmin = 1.96 
+            xmax = 2.044 
+            text = "" 

@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.104 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.104 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.03 
+            text = "" 
+        intervals [2]:
+            xmin = 0.03 
+            xmax = 0.09 
+            text = "wo3" 
+        intervals [3]:
+            xmin = 0.09 
+            xmax = 0.21 
+            text = "deng3" 
+        intervals [4]:
+            xmin = 0.21 
+            xmax = 0.35 
+            text = "ni3" 
+        intervals [5]:
+            xmin = 0.35 
+            xmax = 0.54 
+            text = "hao3" 
+        intervals [6]:
+            xmin = 0.54 
+            xmax = 0.75 
+            text = "jiu3" 
+        intervals [7]:
+            xmin = 0.75 
+            xmax = 1.08 
+            text = "la5" 
+        intervals [8]:
+            xmin = 1.08 
+            xmax = 1.104 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.104 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.03 
+            text = "" 
+        intervals [2]:
+            xmin = 0.03 
+            xmax = 0.09 
+            text = "uo3" 
+        intervals [3]:
+            xmin = 0.09 
+            xmax = 0.18 
+            text = "d" 
+        intervals [4]:
+            xmin = 0.18 
+            xmax = 0.21 
+            text = "eng3" 
+        intervals [5]:
+            xmin = 0.21 
+            xmax = 0.31 
+            text = "n" 
+        intervals [6]:
+            xmin = 0.31 
+            xmax = 0.35 
+            text = "i3" 
+        intervals [7]:
+            xmin = 0.35 
+            xmax = 0.48 
+            text = "h" 
+        intervals [8]:
+            xmin = 0.48 
+            xmax = 0.54 
+            text = "ao3" 
+        intervals [9]:
+            xmin = 0.54 
+            xmax = 0.66 
+            text = "j" 
+        intervals [10]:
+            xmin = 0.66 
+            xmax = 0.75 
+            text = "iou3" 
+        intervals [11]:
+            xmin = 0.75 
+            xmax = 0.85 
+            text = "l" 
+        intervals [12]:
+            xmin = 0.85 
+            xmax = 1.08 
+            text = "a5" 
+        intervals [13]:
+            xmin = 1.08 
+            xmax = 1.104 
+            text = "" 

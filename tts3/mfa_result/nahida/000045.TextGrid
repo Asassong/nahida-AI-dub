@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.944 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 0.944 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2 
+            text = "huan4" 
+        intervals [2]:
+            xmin = 0.2 
+            xmax = 0.3 
+            text = "ge4" 
+        intervals [3]:
+            xmin = 0.3 
+            xmax = 0.48 
+            text = "ce4" 
+        intervals [4]:
+            xmin = 0.48 
+            xmax = 0.62 
+            text = "lve4" 
+        intervals [5]:
+            xmin = 0.62 
+            xmax = 0.87 
+            text = "ba5" 
+        intervals [6]:
+            xmin = 0.87 
+            xmax = 0.944 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 0.944 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13 
+            text = "h" 
+        intervals [2]:
+            xmin = 0.13 
+            xmax = 0.2 
+            text = "uan4" 
+        intervals [3]:
+            xmin = 0.2 
+            xmax = 0.27 
+            text = "g" 
+        intervals [4]:
+            xmin = 0.27 
+            xmax = 0.3 
+            text = "e4" 
+        intervals [5]:
+            xmin = 0.3 
+            xmax = 0.44 
+            text = "c" 
+        intervals [6]:
+            xmin = 0.44 
+            xmax = 0.48 
+            text = "e4" 
+        intervals [7]:
+            xmin = 0.48 
+            xmax = 0.53 
+            text = "l" 
+        intervals [8]:
+            xmin = 0.53 
+            xmax = 0.62 
+            text = "ve4" 
+        intervals [9]:
+            xmin = 0.62 
+            xmax = 0.7 
+            text = "b" 
+        intervals [10]:
+            xmin = 0.7 
+            xmax = 0.87 
+            text = "a5" 
+        intervals [11]:
+            xmin = 0.87 
+            xmax = 0.944 
+            text = "" 

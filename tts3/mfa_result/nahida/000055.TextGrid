@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.1746666666666665 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.1746666666666665 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45 
+            text = "sheng1" 
+        intervals [2]:
+            xmin = 0.45 
+            xmax = 0.64 
+            text = "ming4" 
+        intervals [3]:
+            xmin = 0.64 
+            xmax = 1.58 
+            text = "" 
+        intervals [4]:
+            xmin = 1.58 
+            xmax = 1.86 
+            text = "zhong1" 
+        intervals [5]:
+            xmin = 1.86 
+            xmax = 2 
+            text = "you3" 
+        intervals [6]:
+            xmin = 2 
+            xmax = 2.15 
+            text = "" 
+        intervals [7]:
+            xmin = 2.15 
+            xmax = 2.43 
+            text = "jin3" 
+        intervals [8]:
+            xmin = 2.43 
+            xmax = 2.99 
+            text = "shi2" 
+        intervals [9]:
+            xmin = 2.99 
+            xmax = 3.1746666666666665 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 3.1746666666666665 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25 
+            text = "sh" 
+        intervals [2]:
+            xmin = 0.25 
+            xmax = 0.45 
+            text = "eng1" 
+        intervals [3]:
+            xmin = 0.45 
+            xmax = 0.52 
+            text = "m" 
+        intervals [4]:
+            xmin = 0.52 
+            xmax = 0.64 
+            text = "ing4" 
+        intervals [5]:
+            xmin = 0.64 
+            xmax = 1.58 
+            text = "" 
+        intervals [6]:
+            xmin = 1.58 
+            xmax = 1.72 
+            text = "zh" 
+        intervals [7]:
+            xmin = 1.72 
+            xmax = 1.86 
+            text = "ong1" 
+        intervals [8]:
+            xmin = 1.86 
+            xmax = 2 
+            text = "iou3" 
+        intervals [9]:
+            xmin = 2 
+            xmax = 2.15 
+            text = "" 
+        intervals [10]:
+            xmin = 2.15 
+            xmax = 2.31 
+            text = "j" 
+        intervals [11]:
+            xmin = 2.31 
+            xmax = 2.43 
+            text = "in3" 
+        intervals [12]:
+            xmin = 2.43 
+            xmax = 2.8 
+            text = "sh" 
+        intervals [13]:
+            xmin = 2.8 
+            xmax = 2.99 
+            text = "iii2" 
+        intervals [14]:
+            xmin = 2.99 
+            xmax = 3.1746666666666665 
+            text = "" 

@@ -1,0 +1,120 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.536 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.536 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14 
+            text = "hao4" 
+        intervals [2]:
+            xmin = 0.14 
+            xmax = 0.34 
+            text = "qi2" 
+        intervals [3]:
+            xmin = 0.34 
+            xmax = 0.56 
+            text = "xin1" 
+        intervals [4]:
+            xmin = 0.56 
+            xmax = 0.71 
+            text = "zhi2" 
+        intervals [5]:
+            xmin = 0.71 
+            xmax = 0.84 
+            text = "de5" 
+        intervals [6]:
+            xmin = 0.84 
+            xmax = 1.01 
+            text = "jia1" 
+        intervals [7]:
+            xmin = 1.01 
+            xmax = 1.38 
+            text = "jiang3" 
+        intervals [8]:
+            xmin = 1.38 
+            xmax = 1.47 
+            text = "o2" 
+        intervals [9]:
+            xmin = 1.47 
+            xmax = 1.536 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.536 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.07 
+            text = "h" 
+        intervals [2]:
+            xmin = 0.07 
+            xmax = 0.14 
+            text = "ao4" 
+        intervals [3]:
+            xmin = 0.14 
+            xmax = 0.31 
+            text = "q" 
+        intervals [4]:
+            xmin = 0.31 
+            xmax = 0.34 
+            text = "i2" 
+        intervals [5]:
+            xmin = 0.34 
+            xmax = 0.44 
+            text = "x" 
+        intervals [6]:
+            xmin = 0.44 
+            xmax = 0.56 
+            text = "in1" 
+        intervals [7]:
+            xmin = 0.56 
+            xmax = 0.63 
+            text = "zh" 
+        intervals [8]:
+            xmin = 0.63 
+            xmax = 0.71 
+            text = "iii2" 
+        intervals [9]:
+            xmin = 0.71 
+            xmax = 0.78 
+            text = "d" 
+        intervals [10]:
+            xmin = 0.78 
+            xmax = 0.84 
+            text = "e5" 
+        intervals [11]:
+            xmin = 0.84 
+            xmax = 0.93 
+            text = "j" 
+        intervals [12]:
+            xmin = 0.93 
+            xmax = 1.01 
+            text = "ia1" 
+        intervals [13]:
+            xmin = 1.01 
+            xmax = 1.12 
+            text = "j" 
+        intervals [14]:
+            xmin = 1.12 
+            xmax = 1.38 
+            text = "iang3" 
+        intervals [15]:
+            xmin = 1.38 
+            xmax = 1.47 
+            text = "o2" 
+        intervals [16]:
+            xmin = 1.47 
+            xmax = 1.536 
+            text = "" 
