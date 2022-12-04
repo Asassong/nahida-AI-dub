@@ -30,7 +30,7 @@
 
 ### 训练
 
-用git bash运行官方的run.sh或者python运行我的程序run.py,官方的应该需要把所有路径改为绝对路径，expanduser方法对windows系统无效。后面的参数参考官方文档或自行查看程序。
+用git bash运行官方的`run.sh`或者python运行我的程序`run.py`。官方的应该需要把所有路径改为绝对路径，expanduser方法对windows系统无效。后面的参数参考官方文档或自行查看程序。
 
 ## 项目文件说明
 
