@@ -16,22 +16,22 @@
 
 再安装[PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)，[MFA](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) (需要用conda安装，pip有个pynini库我不知道怎么装在windows系统上），nltk以及下载nltk_data。
 
-##使用
+## 使用
 
-###准备数据集
+### 准备数据集
 
 获取`知识，与你分享。.wav`这样的wav格式音频文件，用我提供的程序即可转换。
 
 其他样式请自行处理，数据集格式参见PaddleSpeech官方文档。
 
-###下载预训练模型
+### 下载预训练模型
 
 参考PaddleSpeech官方文档。
 
-###训练
+### 训练
 
 用git bash运行官方的run.sh或者python运行我的程序run.py,官方的应该需要把所有路径改为绝对路径，expanduser方法对windows系统无效。后面的参数参考官方文档或自行查看程序。
 
-##其他
+## 其他
 
 若米哈游觉得该项目侵犯了你们的权利，请提前通知。
