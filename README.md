@@ -32,6 +32,16 @@
 
 用git bash运行官方的run.sh或者python运行我的程序run.py,官方的应该需要把所有路径改为绝对路径，expanduser方法对windows系统无效。后面的参数参考官方文档或自行查看程序。
 
+## 项目文件说明
+
+input文件夹即为数据集。
+
+mfa_result文件夹为MFA生成的textgrid文件。
+
+local文件夹稍微更改了一些paddlespeech官方的程序。
+
+simple.dict文件更改了官方的simple.lexicon文件，MFA更改了识别文件格式。
+
 ## 其他
 
 若米哈游觉得该项目侵犯了你们的权利，请提前通知。
